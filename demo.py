@@ -1,2 +1,2 @@
-a="welcome to my id "
+a = 1000
 print(a)
