@@ -30,3 +30,5 @@ print(p >> 1)
 m = 15
 n = 6
 print(m & ~n )
+
+#7
