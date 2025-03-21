@@ -25,3 +25,4 @@ b = {3, 6, 9}
 c = 3 in a and 6 in b
 print(c)
 
+#11
