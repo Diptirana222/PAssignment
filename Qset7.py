@@ -23,3 +23,5 @@ print(a >> 1)
 b = 20
 print (b >> 2)
 print (b << 1)
+
+#7
